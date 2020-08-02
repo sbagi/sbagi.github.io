@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[COMSOL Parametric Sweep](/sample_page)
+[COMSOL Parametric Sweep](/parametric_sweep)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
 ---
