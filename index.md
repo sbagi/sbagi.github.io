@@ -17,6 +17,7 @@
 
 ---
 [Project 4](/test_example.md)
+<br\>
 <img src="images/sujay.jpg?raw=true"/>
 
 ---
