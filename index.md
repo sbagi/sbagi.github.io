@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4](/test_example.md)\
+[Project 4](/test_example.md)
 <br>
 <img src="images/sujay.jpg?raw=true"/>
 
