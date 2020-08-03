@@ -1,8 +1,8 @@
 ## Research Portfolio
 
 ---
-
 ### High-throughput Synthesis and Applications of Porous Materials 
+
 [Development of Flow Chemistry Platform of Materials Synthesis](/parametric_sweep.md)
 <img src="images/Reactor Schematic.JPG?raw=true"/>
 
@@ -23,17 +23,14 @@
 <img src="images/NiBTDD1.JPG?raw=true"/>
 
 ---
-[Scenarios for Carbon Neutral MIT](/test_example.md)
+### Academic Projects at MIT
+
+[Scenarios for Carbon Neutral MIT](/carbon_neutral.md)
 <img src="images/ScenarioA.JPG?raw=true"/>
 
 ---
 [Product Design for Improved Adherence to Medication](/test_example.md)
 <img src="images/PD1.JPG?raw=true"/>
-
----
-[Project 4](/test_example.md)
-<br>
-<img src="images/sujay.jpg?raw=true"/>
 
 ---
 
