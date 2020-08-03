@@ -5,19 +5,23 @@ Non-adherence to medication leads to >130,000 preventable deaths in the US every
 We were a team of 6 graduate students, 3 engineering majors, 2 business majors and 1 design major. Below are some of the highlights from the group project executed in 2017.
 
 <br><br>
+---
 
 ### Competitive Market Landscape<br>
 <img src="images/PD2.png?raw=true"/>
+
 <br><br>
 ---
 
 ### Concept Generation<br>
 <img src="images/PD3.png?raw=true"/>
+
 <br><br>
 ---
 
 ### Prototype Development<br>
 <img src="images/PD4.png?raw=true"/>
+
 <br><br>
 ---
 
@@ -31,3 +35,4 @@ We were a team of 6 graduate students, 3 engineering majors, 2 business majors a
 <img src="images/PD6.jpg?raw=true"/>
 
 <br><br>
+---
