@@ -5,9 +5,11 @@
 ### Category Name 1 
 [COMSOL Parametric Sweep](/parametric_sweep.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
+
 ---
 [COMSOL Parametric Sweep](/parametric_sweep.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
