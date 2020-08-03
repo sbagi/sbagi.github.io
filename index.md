@@ -11,7 +11,7 @@
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
 ---
-[Techno-ccomonic Analysis for Batch vs. Flow Synthesis](/pdf/sample_presentation.pdf)
+[Techno-ecomonic Analysis for Batch vs. Flow Synthesis](/pdf/sample_presentation.pdf)
 <img src="images/TEA2.JPG?raw=true"/>
 
 ---
@@ -28,13 +28,7 @@
 
 ---
 [Product Design for Improved Adherence to Medication](/test_example.md)
-<img src="images/ScenarioA.JPG?raw=true"/>
-
----
-
-[Project 4](/test_example.md)
-<br>
-<img src="images/sujay.jpg?raw=true"/>
+<img src="images/PD1.JPG?raw=true"/>
 
 ---
 [Project 4](/test_example.md)
