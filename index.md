@@ -11,7 +11,7 @@
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
 ---
-[Techno-ecomonic Analysis for Batch vs. Flow Synthesis](/pdf/sample_presentation.pdf)
+[Techno-economic Analysis Comparing Batch & Flow Synthesis](/pdf/sample_presentation.pdf)
 <img src="images/TEA2.JPG?raw=true"/>
 
 ---
