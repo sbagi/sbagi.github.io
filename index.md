@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### High-throughput Synthesis and Applications of Porous Materials 
 [COMSOL Parametric Sweep](/parametric_sweep.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
@@ -25,17 +25,26 @@
 
 ---
 
+### Previous Projects (Tribology, Lubricants Formulation, and Wear Testing)
+
+- [Metallo-organic Friction Modifiers in Lubricating Greases](https://doi.org/10.1080/17515831.2018.1542790)
+- [Wear and Friction Behaviour of Greases under Spectrum Loading](https://rc.library.uta.edu/uta-ir/handle/10106/25525)
+- [Aerospace Grease Characteristics with MoS2 and PTFE/ZDDP Formulations](https://doi.org/10.3390/lubricants3040687)
+- [Role of MoS2 Morphology on Wear & Friction Behavior of Greases](https://doi.org/10.1002/ls.1296)
+- [Grease Formulations with Organic & Inorganic Sulfur Additives](https://doi.org/10.2474/trol.12.162)
+
+---
+
+
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](/pdf/sample_presentation.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
 
 
 ---
