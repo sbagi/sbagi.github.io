@@ -25,13 +25,13 @@ We were a team of 6 graduate students, 3 engineering majors, 2 business majors a
 <br><br>
 ---
 
-## Integration of Electronics and Smart-phone App<br>
+### Integration of Electronics and Smart-phone App<br>
 <img src="images/PD5.png?raw=true"/>
 
 <br><br>
 ---
 
-## Life Cycle Assessments<br>
+### Life Cycle Assessments<br>
 <img src="images/PD6.jpg?raw=true"/>
 
 <br><br>
