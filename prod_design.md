@@ -7,9 +7,11 @@ We were a team of 6 graduate students, 3 engineering majors, 2 business majors a
 ## Competitive Market Landscape<br>
 <img src="images/PD2.png?raw=true"/>
 <br><br>
+---
 ## Concept Generation<br>
 <img src="images/PD3.png?raw=true"/>
 <br><br>
+---
 ## Prototype Development<br>
 <img src="images/PD4.png?raw=true"/>
 <br><br>
