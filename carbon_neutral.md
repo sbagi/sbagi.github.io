@@ -20,13 +20,13 @@ Some short-term urgent recommendations for MIT to reduce GHG emissions: <br>
 • Installation of geothermal well-field to provide heating and cooling via GSHP (Ground Source Heat Pump) <br>
 
 ### Projection of MIT Energy Demand based on Campus Growth and Climate Change Factors<br>
-<img src="images/ScenarioA1.tif?raw=true"/>
+<img src="images/ScenarioA3.JPG?raw=true"/>
 
 <br><br>
 ---
 
 ### Decarbonization Curves with ISO-NE (Nuclear & Non-Nuclear Options) to Predict Business-as-usual Demand at MIT<br>
-<img src="images/ScenarioA2.tif?raw=true"/>
+<img src="images/ScenarioA4.JPG?raw=true"/>
 
 <br><br>
 ---
