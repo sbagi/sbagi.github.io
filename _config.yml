@@ -3,17 +3,17 @@ logo: "/images/Sujay1a.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Materials Scientist and Research Assistant (TATA Fellow) at MIT
   <br><br>
-  My background at the intersection of mechanical engineering, materials science, & chemical engineering, positions me to understand and efficiently tackle real-world challenges. 
-  <br><br>
-  I'm interested in areas related to renewable energy technologies, materials synthesis, crystallization science, techno-economic modelling, energy storage, carbon capture, sustainable water supply, automotive emissions, fuels, and policy.
-  <br><br>
   <a href="https://www.linkedin.com/in/sujay-bagi/">View My LinkedIn Profile</a> 
   <br>
   <a href="https://www.dropbox.com/s/p64ibkootzx9kll/Sujay%20Bagi-Resume-Summer%202020.pdf?dl=0">View My Resume</a>
   <br>
   <a href="https://scholar.google.com/citations?user=ap8CUAcAAAAJ&hl=en&oi=ao">View My Google Scholar</a> 
   <br>
-  <a href="https://www.romangroup.mit.edu/">View My Research Lab</a> 
-  <br>
+  <a href="https://www.romangroup.mit.edu/">View My Research Lab</a>
+  <br><br>
+  My background at the intersection of mechanical engineering, materials science, & chemical engineering, positions me to understand and efficiently tackle real-world challenges. 
+  <br><br>
+  I'm interested in areas related to renewable energy technologies, materials synthesis, crystallization science, techno-economic modelling, energy storage, carbon capture, sustainable water supply, automotive emissions, fuels, and policy.
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
