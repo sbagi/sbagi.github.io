@@ -4,12 +4,17 @@ The product design exercise aimed at developing a discreet and stylized case for
 Non-adherence to medication leads to >130,000 preventable deaths in the US every yeay and a detailed market analysis highlighted the need for a product in this category.<br>
 We were a team of 6 graduate students, 3 engineering majors, 2 business majors and 1 design major. Below are some of the highlights from the group project executed in 2017.
 <br><br>
-[Competitive Market Landscape]
+Competitive Market Landscape<br>
+<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 <br><br>
-Concept Generation
+Concept Generation<br>
+<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 <br><br>
-Prototype Development
+Prototype Development<br>
+<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 <br><br>
-Integration of Electronics and Smart-phone App
+Integration of Electronics and Smart-phone App<br>
+<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 <br><br>
-Life Cycle Assessments
+Life Cycle Assessments<br>
+<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
