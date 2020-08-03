@@ -3,20 +3,29 @@
 ---
 
 ### High-throughput Synthesis and Applications of Porous Materials 
-[COMSOL Parametric Sweep](/parametric_sweep.md)
+[Development of Flow Chemistry Platform of Materials Synthesis](/parametric_sweep.md)
+<img src="images/Reactor Schematic.JPG?raw=true"/>
+
+---
+[Heat Transfer Modeling in Flow Reactors](/parametric_sweep.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
 ---
-[COMSOL Parametric Sweep](/parametric_sweep.md)
-<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
+[Techno-ccomonic Analysis for Batch vs. Flow Synthesis](/pdf/sample_presentation.pdf)
+<img src="images/TEA2.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Harvesting Fresh Drinking Water from Air](http://example.com/)
+<img src="images/AWC1.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fast Optimization of Materials Synthesis Space](/test_example.md)
+<img src="images/NiBTDD1.JPG?raw=true"/>
+
+---
+[Project 4](/test_example.md)
+<br>
+<img src="images/sujay.jpg?raw=true"/>
 
 ---
 [Project 4](/test_example.md)
@@ -34,7 +43,6 @@
 - [Grease Formulations with Organic & Inorganic Sulfur Additives](https://doi.org/10.2474/trol.12.162)
 
 ---
-
 
 ### Category Name 2
 
