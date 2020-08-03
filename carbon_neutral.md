@@ -15,6 +15,6 @@ to-hot-water conversion
 • Begin tracking Scope 3 emissions <br>
 <br><br>
 Some short-term urgent recommendations for MIT to reduce GHG emissions:
-• Converting the campus from using steam to hot water for heating.
-• Installation of heat-recovery chillers
-• Installation of geothermal well-field to provide heating and cooling via GSHP (Ground Source Heat Pump)
+• Converting the campus from using steam to hot water for heating. <br>
+• Installation of heat-recovery chillers <br>
+• Installation of geothermal well-field to provide heating and cooling via GSHP (Ground Source Heat Pump) <br>
