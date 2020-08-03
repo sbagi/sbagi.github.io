@@ -29,7 +29,7 @@
 <img src="images/ScenarioA.JPG?raw=true"/>
 
 ---
-[Product Design for Improved Adherence to Medication](/test_example.md)
+[Product Design for Improved Adherence to Medication](/prod_design.md)
 <img src="images/PD1.JPG?raw=true"/>
 
 ---
