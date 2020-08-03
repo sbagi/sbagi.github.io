@@ -16,20 +16,20 @@ We were a team of 6 graduate students, 3 engineering majors, 2 business majors a
 <img src="images/PD3.png?raw=true"/>
 
 <br><br>
-
 ---
+
 ### Prototype Development<br>
 <img src="images/PD4.png?raw=true"/>
 
 <br><br>
-
 ---
+
 ## Integration of Electronics and Smart-phone App<br>
 <img src="images/PD5.png?raw=true"/>
 
 <br><br>
-
 ---
+
 ## Life Cycle Assessments<br>
 <img src="images/PD6.jpg?raw=true"/>
 
