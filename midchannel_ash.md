@@ -7,7 +7,7 @@
 Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulted in the following publications and ongoing projects. 
 
 Relevant Publications for further Reading:
-<br><br>
+<br>
 - [Phenomenological Investigations of Mid-Channel Ash Deposit Formation and Characteristics in Diesel Particulate Filters](https://doi.org/10.4271/2019-01-0973)
 - [Ash Permeability Determination in the Diesel Particulate Filter from Ultra-High Resolution 3D X-Ray Imaging and Image-Based Direct Numerical Simulations](https://doi.org/10.4271/2017-01-0927)
 - [Advanced analytical methods for the study of lubricant-derived ash and associated impacts on engine aftertreatment components](https://doi.org/10.4271/2019-01-2293)
