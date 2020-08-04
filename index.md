@@ -3,7 +3,7 @@
 ---
 ### High-throughput Synthesis and Applications of Porous Materials 
 
-[Development of Flow Chemistry Platform of Materials Synthesis](/parametric_sweep.md)
+[Development of Flow Chemistry Platform for Materials Synthesis](/parametric_sweep.md)
 <img src="images/Reactor Schematic.JPG?raw=true"/>
 
 ---
@@ -31,6 +31,29 @@
 ---
 [Product Design for Improved Adherence to Medication](/prod_design.md)
 <img src="images/PD1.JPG?raw=true"/>
+
+---
+### Diesel Engine Lubricants, Emissions, and After-treatment System
+
+[Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/carbon_neutral.md)
+<img src="images/ScenarioA.JPG?raw=true"/>
+
+---
+[Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/prod_design.md)
+<img src="images/PD1.JPG?raw=true"/>
+
+---
+[Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/prod_design.md)
+<img src="images/PD1.JPG?raw=true"/>
+
+---
+[Role of Engine Oil Dispersant Formulations on Soot-Induced Wear](/prod_design.md)
+<img src="images/PD1.JPG?raw=true"/>
+
+---
+[3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/prod_design.md)
+<img src="images/PD1.JPG?raw=true"/>
+
 
 ---
 
