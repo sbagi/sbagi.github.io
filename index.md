@@ -39,8 +39,8 @@
 <img src="images/Diesel1.JPG?raw=true"/>
 
 ---
-[Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/midchannel_ash.md)
-<img src="images/Diesel2.JPG?raw=true"/>
+[3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/midchannel_ash.md)
+<img src="images/Diesel5a.JPG?raw=true"/>
 
 ---
 [Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/test_example.md)
@@ -51,9 +51,8 @@
 <img src="images/Diesel4.JPG?raw=true"/>
 
 ---
-[3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/midchannel_ash.md)
-<img src="images/Diesel5a.JPG?raw=true"/>
-
+[Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/midchannel_ash.md)
+<img src="images/Diesel2.JPG?raw=true"/>
 
 ---
 
