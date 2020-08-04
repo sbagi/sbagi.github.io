@@ -33,26 +33,26 @@
 <img src="images/PD1.JPG?raw=true"/>
 
 ---
-### Diesel Engine Lubricants, Emissions, and After-treatment System
+### Diesel Engine Lubricants, Emissions, and After-treatment System Development
 
-[Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/carbon_neutral.md)
-<img src="images/ScenarioA.JPG?raw=true"/>
-
----
-[Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/prod_design.md)
-<img src="images/PD1.JPG?raw=true"/>
+[Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/test_example.md)
+<img src="images/Diesel1.JPG?raw=true"/>
 
 ---
-[Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/prod_design.md)
-<img src="images/PD1.JPG?raw=true"/>
+[Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/test_example.md)
+<img src="images/Diesel2?raw=true"/>
 
 ---
-[Role of Engine Oil Dispersant Formulations on Soot-Induced Wear](/prod_design.md)
-<img src="images/PD1.JPG?raw=true"/>
+[Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/test_example.md)
+<img src="images/Diesel3.JPG?raw=true"/>
 
 ---
-[3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/prod_design.md)
-<img src="images/PD1.JPG?raw=true"/>
+[Role of Engine Oil Dispersant Formulations on Soot-Induced Wear](/test_example.md)
+<img src="images/Diesel4.JPG?raw=true"/>
+
+---
+[3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/test_example.md)
+<img src="images/Diesel5.JPG?raw=true"/>
 
 
 ---
