@@ -40,7 +40,7 @@
 
 ---
 [Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/test_example.md)
-<img src="images/Diesel2?raw=true"/>
+<img src="images/Diesel2.JPG?raw=true"/>
 
 ---
 [Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/test_example.md)
