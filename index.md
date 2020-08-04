@@ -20,7 +20,7 @@
 
 ---
 [Fast Optimization of Materials Synthesis Space](/test_example.md)
-<img src="images/NiBTDD1.JPG?raw=true"/>
+<img src="images/NiBTDD1a.JPG?raw=true"/>
 
 ---
 ### Academic Projects at MIT
@@ -52,7 +52,7 @@
 
 ---
 [3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/test_example.md)
-<img src="images/Diesel5.JPG?raw=true"/>
+<img src="images/Diesel5a.JPG?raw=true"/>
 
 
 ---
