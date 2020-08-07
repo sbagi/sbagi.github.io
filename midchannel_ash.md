@@ -1,4 +1,4 @@
-## Project Overview <br><br>
+## Project Overview <br>
 - Over the past few years we've investigated the role of mid-channel ash deposits in the DPF (Diesel Particulate Filter) on long-term after-treatment durability, effects on vechicle fuel economy and developing advanced characterization tools for investigation of micrometer scale morphology of ash deposits.<br>
 - Diesel engine exhaust aftertreatment components, especially the diesel particulate filter (DPF), are subject to various modes of degradation over their lifetimes. <br>
 - One particular adverse effect on the DPF is the significant rise in pressure drop due to the accumulation of engine lubricant-derived ash which coats the inlet channel walls effectively decreasing the permeability of the filter.<br> 
