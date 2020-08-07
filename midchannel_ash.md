@@ -7,6 +7,7 @@
 
 Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulted in the following publications and ongoing projects. 
 
+---
 
 ### Relevant Publications for further Reading:
 
