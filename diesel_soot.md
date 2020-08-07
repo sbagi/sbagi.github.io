@@ -16,6 +16,7 @@ One area of practical significance is to understand the relationship between soo
 
 <br>
 ---
+
 ### Temperature-resolved X-ray diffraction to characterize soot oxidation<br>
 <img src="images/Diesel9.png?raw=true"/>
 
