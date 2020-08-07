@@ -14,7 +14,6 @@ One area of practical significance is to understand the relationship between soo
 - [Effects of Diesel Soot Composition and Accumulated Vehicle Mileage on Soot Oxidation Characteristics](https://doi.org/10.1021/acs.energyfuels.6b01304)
 - [Influence of Engine Age on Morphology and Chemistry of Diesel Soot Extracted from Crankcase Oil](https://doi.org/10.1021/acs.energyfuels.5b02512)
 
-<br>
 ---
 
 ### Temperature-resolved X-ray diffraction to characterize soot oxidation<br>
