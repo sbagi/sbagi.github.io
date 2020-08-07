@@ -35,7 +35,7 @@
 ---
 ### Diesel Engine Lubricants, Emissions, and After-treatment System Development
 
-[Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/test_example.md)
+[Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/diesel_soot.md)
 <img src="images/Diesel1.JPG?raw=true"/>
 
 ---
