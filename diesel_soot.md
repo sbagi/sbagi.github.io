@@ -10,7 +10,7 @@ One area of practical significance is to understand the relationship between soo
 ---
 
 Relevant Publications for Further Reading:<br><br>
-- [Multiscale characterization of exhaust and crankcase soot extracted from heavy-duty diesel engine and implications for DPF ash] (https://doi.org/10.1016/j.fuel.2020.118878)
+- [Multiscale characterization of exhaust and crankcase soot extracted from heavy-duty diesel engine and implications for DPF ash](https://doi.org/10.1016/j.fuel.2020.118878)
 
 ### Oxidation of soot extracted from crankcase resulting in residue from oil additive species <br>
 - my time spent working at a heady-duty diesel engine OEM .<br>
