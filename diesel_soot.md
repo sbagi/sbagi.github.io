@@ -14,11 +14,6 @@ Relevant Publications for Further Reading:<br>
 - [Effects of Diesel Soot Composition and Accumulated Vehicle Mileage on Soot Oxidation Characteristics](https://doi.org/10.1021/acs.energyfuels.6b01304)
 - [Influence of Engine Age on Morphology and Chemistry of Diesel Soot Extracted from Crankcase Oil](https://doi.org/10.1021/acs.energyfuels.5b02512)
 
-
-### Oxidation of soot extracted from crankcase resulting in residue from oil additive species <br>
-- my time spent working at a heady-duty diesel engine OEM .<br>
-- ggg.
-
 <br><br>
 ---
 
