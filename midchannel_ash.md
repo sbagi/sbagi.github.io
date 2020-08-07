@@ -26,7 +26,7 @@ Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulte
 ---
 
 ### Monitoring the phase changes in DPF ash and influence of DPF additive species on ash morphology <br>
-<img src="images/Diesel11.jpg?raw=true"/>
+<img src="images/Diesel13.jpg?raw=true"/>
 
 <br><br>
 ---
