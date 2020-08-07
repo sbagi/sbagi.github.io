@@ -17,4 +17,9 @@ Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulte
 
 ---
 
-Exhaust and Crankcase Soot - SI 2.mp4
+### Evolution of DPF ash morphology upon soot oxidation at 600C <br>
+<img src="images/Exhaust and Crankcase Soot - SI 2.mp4?raw=true"/>
+
+<br><br>
+---
+
