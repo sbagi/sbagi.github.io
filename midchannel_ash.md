@@ -5,7 +5,7 @@ Aftertreatment systems currently used with heavy-duty diesel engines mainly comp
 - Diesel engine exhaust aftertreatment components, especially the diesel particulate filter (DPF), are subject to various modes of degradation over their lifetimes. <br>
 - One particular adverse effect on the DPF is the significant rise in pressure drop due to the accumulation of engine lubricant-derived ash which coats the inlet channel walls effectively decreasing the permeability of the filter.<br> 
 - The decreased permeability due to ash in the DPF can result in increased filter pressure drop and decreased fuel economy. <br>
-- A unique two-step approach, consisting of experimental measurements and direct numerical simulations using ultra-high resolution 3D imaging data, has been utilized in this study to better understand the effects of ash accumulation on engine aftertreatment component functionality.
+- A unique two-step approach, consisting of experimental measurements and direct numerical simulations using ultra-high resolution 3D imaging data, has been utilized in these study to better understand the effects of ash accumulation on engine aftertreatment component functionality.
 
 Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulted in the following publications and ongoing projects. 
 
