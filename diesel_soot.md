@@ -1,4 +1,5 @@
-## Outlook on PM (Particulate Matter) Emissions and its Effects on Diesel Engines
+## Outlook on PM (Particulate Matter) Emissions and its Effects on Diesel Engines <br>
+Emissions from heavy-duty vehicles fitted with diesel engines are classified into four categories: NOx (Nitrogen Oxides–Mixture of NO, NO2, and N2O), PM (Particulate Matter–Carbonaceous soot, ash and volatile organic fraction), CO (Carbon Monoxide), and unburnt HC (Hydrocarbons from fuel and engine oil). <br>
 As emission regulations become more stringent with time that necessitate complex aftertreatment systems, we need a holistic methodology for investigating crankcase soot and exhaust soot to monitor and improve the vehicle drivetrain performance from a fuel-economy and durability perspective. <br> 
 One area of practical significance is to understand the relationship between soot inception conditions and oxidative reactivity parameters – the design of particulate filters and operation can be optimized based on soot characteristics such as particle sizes, reactivity, and packing density. <br> 
 - Topics pertaining to elucidation of structural, morphological, and oxidative characteristics of turbostratic soot from diesel engines have been of significant interest to me.<br>
