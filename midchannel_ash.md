@@ -1,5 +1,7 @@
-## Project Overview <br>
-- Over the past few years we've investigated the role of mid-channel ash deposits in the DPF (Diesel Particulate Filter) on long-term after-treatment durability, effects on vechicle fuel economy and developing advanced characterization tools for investigation of micrometer scale morphology of ash deposits.<br>
+## Overview of Projects <br>
+Stringent emission control requirements by the US EPA (Environmental Protection Agency) for vehicles sold beyond 2007 have required diesel engine manufacturers to employ advanced aftertreatment technologies to curtail pollutants (such as NOx, Particulate Matter, CO, and unburnt hydrocarbons) within prescribed limits.<br> 
+Aftertreatment systems currently used with heavy-duty diesel engines mainly comprise of DOC (Diesel Oxidation Catalyst), DPF (Diesel Particulate Filter), SCR (Selective Catalytic Reduction) and the ASC (Ammonia Slip Catalyst) 
+- Over the past few years we've investigated the role of mid-channel ash deposits in the DPF on long-term after-treatment durability, effects on vechicle fuel economy and developing advanced characterization tools for investigation of micrometer scale morphology of ash deposits.<br>
 - Diesel engine exhaust aftertreatment components, especially the diesel particulate filter (DPF), are subject to various modes of degradation over their lifetimes. <br>
 - One particular adverse effect on the DPF is the significant rise in pressure drop due to the accumulation of engine lubricant-derived ash which coats the inlet channel walls effectively decreasing the permeability of the filter.<br> 
 - The decreased permeability due to ash in the DPF can result in increased filter pressure drop and decreased fuel economy. <br>
