@@ -26,13 +26,13 @@ Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulte
 ---
 
 ### Monitoring the phase changes in DPF ash and influence of DPF additive species on ash morphology <br>
-<img src="images/Diesel13.jpg?raw=true"/>
+<img src="images/Diesel13.JPG?raw=true"/>
 
 <br><br>
 ---
 
 ### Patterns in DPF ash deposits originating from variation in lubricant additive composition and engine/aftertreatment operation <br>
-<img src="images/Diesel12.jpg?raw=true"/>
+<img src="images/Diesel12.JPG?raw=true"/>
 
 <br><br>
 ---
