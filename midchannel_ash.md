@@ -16,3 +16,5 @@ Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulte
 - [Advanced analytical methods for the study of lubricant-derived ash and associated impacts on engine aftertreatment components](https://doi.org/10.4271/2019-01-2293)
 
 ---
+
+Exhaust and Crankcase Soot - SI 2.mp4
