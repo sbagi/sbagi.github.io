@@ -14,6 +14,7 @@ Relevant Publications for Further Reading:<br>
 - [Effects of Diesel Soot Composition and Accumulated Vehicle Mileage on Soot Oxidation Characteristics](https://doi.org/10.1021/acs.energyfuels.6b01304)
 - [Influence of Engine Age on Morphology and Chemistry of Diesel Soot Extracted from Crankcase Oil](https://doi.org/10.1021/acs.energyfuels.5b02512)
 
+
 ### Oxidation of soot extracted from crankcase resulting in residue from oil additive species <br>
 - my time spent working at a heady-duty diesel engine OEM .<br>
 - ggg.
@@ -22,25 +23,25 @@ Relevant Publications for Further Reading:<br>
 ---
 
 ### Temperature-resolved X-ray diffraction to characterize soot oxidation<br>
-<img src="images/PD2.png?raw=true"/>
+<img src="images/Diesel9.png?raw=true"/>
 
 <br><br>
 ---
 
 ### Tracking the variation in inter-planar lattice spacing of 002 plane <br>
-<img src="images/PD3.png?raw=true"/>
+<img src="images/Diesel11.png?raw=true"/>
 
 <br><br>
 ---
 
 ### Raman microscopy to probe short-range highly disordered turbostratic structure <br>
-<img src="images/PD4.png?raw=true"/>
+<img src="images/Diesel8.jpg?raw=true"/>
 
 <br><br>
 ---
 
 ### In-situ visualization of Soot-Ash interactions in DPF channels to investigate morphological changes in lubricant derived ash and sintering <br>
-<img src="images/PD4.png?raw=true"/>
+<img src="images/Diesel7.jpg?raw=true"/>
 
 <br><br>
 ---
