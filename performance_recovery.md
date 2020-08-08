@@ -1,32 +1,50 @@
 ## Overview of Projects <br>
 Stringent emission control requirements by the US EPA (Environmental Protection Agency) for vehicles sold beyond 2007 have required diesel engine manufacturers to employ advanced aftertreatment technologies to curtail pollutants (such as NOx, Particulate Matter, CO, and unburnt hydrocarbons) within prescribed limits.<br> 
-Aftertreatment systems currently used with heavy-duty diesel engines mainly comprise of DOC (Diesel Oxidation Catalyst), DPF (Diesel Particulate Filter), SCR (Selective Catalytic Reduction) and the ASC (Ammonia Slip Catalyst) 
-- Over the past few years we've investigated the role of mid-channel ash deposits in the DPF on long-term after-treatment durability, effects on vechicle fuel economy and developing advanced characterization tools for investigation of micrometer scale morphology of ash deposits.<br>
-- Diesel engine exhaust aftertreatment components, especially the diesel particulate filter (DPF), are subject to various modes of degradation over their lifetimes. <br>
-- One particular adverse effect on the DPF is the significant rise in pressure drop due to the accumulation of engine lubricant-derived ash which coats the inlet channel walls effectively decreasing the permeability of the filter.<br> 
-- The decreased permeability due to ash in the DPF can result in increased filter pressure drop and decreased fuel economy. <br>
-- A unique two-step approach, consisting of experimental measurements and direct numerical simulations using ultra-high resolution 3D imaging data, has been utilized in these study to better understand the effects of ash accumulation on engine aftertreatment component functionality.
+Aftertreatment systems currently used with heavy-duty diesel engines mainly comprise of DOC (Diesel Oxidation Catalyst), DPF (Diesel Particulate Filter), SCR (Selective Catalytic Reduction) and the ASC (Ammonia Slip Catalyst).
+- Ash accumulation in the DPF over life results in reduced soot storage capacity, lower catalytic activity and may even alter substrate properties and lead to higher back-pressure; hence ash-cleaning of the DPF is required periodically to extend the life of the DPF and restore its catalytic performance.<br>
+- Field returned DPF units are subject to X-ray CT imaging to access the nature and location of ash deposits, followed by cleaning protocols. Several ash cleaning technologies are available which utilize pneumatic, hydraulic and wet-chemical cleaning techniques or their combinations. Filters are subject to light-off tests, CO oxidation tests and back-pressure measurements to determine if they can be installed back on the vehicle for service. Typical DPF cleaning intervals are 200-250K miles for on-road vehicles.<br>
+- It was found that lube oil consumption rate and the engine-oil SAPS (Sulfated Ash, Phosphorous, Sulfur) levels were the primary drivers for ash accumulation rates.<br>
+- It’s well-known that ash is primarily transported to the DPF by an oil consumption mechanism in the engine cylinder during piston-ring lubrication; cross-hatch pattern on the cylinder-liner has to be designed optimally so as to provide adequate lubrication depending on duty-cycles, while ring-pack geometry serves as a barrier for transfer of blow-by gases to the crankcase and to minimize oil consumption. <br>
+- Transport of metallic species in the oil along with soot dispersed in the crankcase (that has adsorbed oil-additives onto its surface) to the filter, influence chemical composition of ash. Ash-precursors are tightly bound in the structure of diesel soot agglomerates that get trapped in the filter wall or channels. <br>
+- The phenomenon of 'ash-bridging' is also a type of mid-channel ash deposit, wherein ash deposits on the channel wall keep growing until they meet an ash aggregate on the other side of channel or the channel wall itself, thereby forming connecting bridges across DPF channels and effectively blocking the access to rest of the channel. <br>
 
-Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulted in the following publications and ongoing projects. 
 
 ---
 
 ### Relevant Publications for further Reading:
 
-- [Phenomenological Investigations of Mid-Channel Ash Deposit Formation and Characteristics in Diesel Particulate Filters](https://doi.org/10.4271/2019-01-0973)
-- [Ash Permeability Determination in the Diesel Particulate Filter from Ultra-High Resolution 3D X-Ray Imaging and Image-Based Direct Numerical Simulations](https://doi.org/10.4271/2017-01-0927)
-- [Advanced analytical methods for the study of lubricant-derived ash and associated impacts on engine aftertreatment components](https://doi.org/10.4271/2019-01-2293)
+- [Investigation into Ash from Field Returned DPF Units: Composition, Distribution, Cleaning Ability and DPF Performance Recovery](https://doi.org/10.4271/2016-01-0928)
+- [Understanding Chemical Composition and Phase Transitions of Ash from Field Returned DPF Units and Their Correlation with Filter Operating Conditions](https://doi.org/10.4271/2016-01-0898)
 
 ---
 
-### Evolution of DPF ash morphology upon soot oxidation at 600C <br>
-<img src="images/SootAshDPF2.gif?raw=true"/>
+### Ash distribution in DPFs with more frequent active regenerations <br>
+- DPFs that had higher regeneration frequency due to more severe cycles, the ash had a tendency to form bridges on the substrates and permanently sinter with the washcoat interface thereby leading to reduced area available for catalytic activity.<br>
+<img src="images/Diesel16.JPG?raw=true"/>
 
 <br><br>
 ---
 
-### Monitoring the phase changes in DPF ash and influence of DPF additive species on ash morphology <br>
-<img src="images/Diesel13.JPG?raw=true"/>
+### Ash distribution in DPFs with pre-dominantly passive regenerations <br>
+- Ash tends to accumulate as a thin layer on the DPF wall with applications that are more dependent on passive regenerations. 
+<img src="images/Diesel17.JPG?raw=true"/>
+
+<br><br>
+---
+
+### Typical source for DPF Ash <br>
+- More than 90% of the ash originates from engine oil metallic species while about 5% originates from wear or corrosion by-products, while the rest of ash could originate from fuel, coolants and other dirt.<br>
+- Detergents and ZDDP components in the engine oil are primary contributors of lubricant-oil generated ash in the filter. Volatility of metallic species in the oil is an important consideration in prediction of DPF ash rather than bulk volatility of engine oil.<br>
+- Due to the differences in NOACK volatility, additive chemistry formulations and the presence of additive sinks in the engine vis-à-vis tribofilms and thermal-films on the interacting surfaces of engine hardware, not all lubricant additives are consumed at the same rate as the bulk oil. <br>
+- Ash derived from engine oil additives is composed of sulfates, sulfides, phosphates, pyrophosphates and oxides of zinc, calcium, magnesium, while other elements such as iron, copper, aluminum and silicon originate from engine hardware & filter substrate. During DPF regeneration, some of the ash species could oxidize further or change their phases and crystalline structure which may be stable at elevated temperatures.<br>
+<img src="images/Diesel18.JPG?raw=true"/> <img src="images/Diesel20.JPG?raw=true"/> 
+
+<br><br>
+---
+
+### Differences in Sintering Behavior of Ash on DPF Substrate <br>
+- Only major differences were Sample 2 (Engine A) experienced higher frequency of active regeneration and used an oil formulation that contained slightly higher volatility ZDDP component as compared to a novel low-volatility ZDDP formulation used in Sample 5 (Engine B); Engine B relied more on passive regeneration than active during the total service life of filter.<br> 
+<img src="images/Diesel19.JPG?raw=true"/>
 
 <br><br>
 ---
