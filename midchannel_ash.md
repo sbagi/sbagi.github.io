@@ -1,7 +1,7 @@
 ## Overview of Projects <br>
 Stringent emission control requirements by the US EPA (Environmental Protection Agency) for vehicles sold beyond 2007 have required diesel engine manufacturers to employ advanced aftertreatment technologies to curtail pollutants (such as NOx, Particulate Matter, CO, and unburnt hydrocarbons) within prescribed limits.<br> 
 Aftertreatment systems currently used with heavy-duty diesel engines mainly comprise of DOC (Diesel Oxidation Catalyst), DPF (Diesel Particulate Filter), SCR (Selective Catalytic Reduction) and the ASC (Ammonia Slip Catalyst) 
-- Over the past few years we've investigated the role of mid-channel ash deposits in the DPF on long-term after-treatment durability, effects on vechicle fuel economy and developing advanced characterization tools for investigation of micrometer scale morphology of ash deposits.<br>
+- Over the past few years we've investigated the role of mid-channel ash deposits (MCD) in the DPF on long-term after-treatment durability, effects on vechicle fuel economy and developing advanced characterization tools for investigation of micrometer scale morphology of ash deposits.<br>
 - These deposits can vary anywhere from 3-10cm in length and effectively block as much as 50%-80% of the volume of a single inlet channel. The percentage of inlet channels having mid-channel deposits in the collection of field samples is in range of 10% to 75%. <br>
 - Diesel engine exhaust aftertreatment components, especially the diesel particulate filter (DPF), are subject to various modes of degradation over their lifetimes. <br>
 - One particular adverse effect on the DPF is the significant rise in pressure drop due to the accumulation of engine lubricant-derived ash which coats the inlet channel walls effectively decreasing the permeability of the filter.<br>
@@ -37,6 +37,23 @@ Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulte
 
 ### Patterns in DPF ash deposits originating from variation in lubricant additive composition and engine/aftertreatment operation <br>
 <img src="images/Diesel12.JPG?raw=true"/>
+
+<br><br>
+---
+
+### X-ray CT images of field-aged DPF channels showing mid-channel ash deposits and loss of soot storage capacity <br>
+- For a given ash loading, a filter with MCDs (mid-channel deposits) has less open inlet channel volume than a filter without MCDs. <br>
+- Generally, ash is deposited on the wall of the inlet channel and in a plug at the inlet channel outlet. MCDs are an exception to the rule where abnormal ash accumulation dominates and gives rise to severe pressure drop issues, often to the point of filter failure.<br>
+- The phenomenon of MCDs is of crucial interest to the automotive and catalysis industry in particular; however, it has been rarely discussed in literature as the underlying mechanisms for MCD are poorly understood.<br>
+<img src="images/Diesel14.JPG?raw=true"/>
+
+<br><br>
+---
+
+### Characterizing the Ash to Gap (A:G) ratios in field-returned DPFs to identify prolematic DPFs <br>
+- A:G ratio is defined by the average total length of ash-plugs or MCD segments per channel, divided by the average total length to the point in the channel (measured from end-plug) where ash deposits blocks the remaining channel volume.<br>
+- We found that many failed DPFs (due to excessive pressure drop or frequent regeneration), have A:G values of approximately 80% or less.<br>
+<img src="images/Diesel15.JPG?raw=true"/>
 
 <br><br>
 ---
