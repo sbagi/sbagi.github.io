@@ -46,8 +46,8 @@ Aftertreatment systems currently used with heavy-duty diesel engines mainly comp
 - Ash derived from engine oil additives is composed of sulfates, sulfides, phosphates, pyrophosphates and oxides of zinc, calcium, magnesium, while other elements such as iron, copper, aluminum and silicon originate from engine hardware & filter substrate. During DPF regeneration, some of the ash species could oxidize further or change their phases and crystalline structure which may be stable at elevated temperatures.<br>
 - After exposure to high temperature, Sample 5 was easily dislodged while Sample 2 couldn’t be displaced as it had wet the filter surface. In real world operation, this would necessitate a harsher cleaning requirement for the filter with wetted ash sample; this could result in higher probability of washcoat being removed with the ash that may potentially affect catalytic performance of the filter. Sample 5 ash would be easily removed by employing a pneumatic cleaning technique that would help recover filter performance and back-pressure characteristics to its initial values.<br>
 
-<img src="images/Diesel19.JPG?raw=true"/> <br>
-<img src="images/Diesel21.JPG?raw=true"/> <br>
+<img src="images/Diesel19.JPG?raw=true"/> <br><br>
+<img src="images/Diesel21.JPG?raw=true"/> <br><br>
 <img src="images/Diesel22.JPG?raw=true"/>
 
 <br><br>
