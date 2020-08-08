@@ -27,18 +27,24 @@ The healthcare industry is a complex network in which numerous stakeholders work
 ---
 
 ### Prototype Development<br>
+- The first step towards finalizing a design concept was to generate as many concepts as possible. Over 50 concepts were generated which were then narrowed down to the top 5 concepts for further investigation, including building basic models and/or rendering. <br>
+- Based on qualitative team discussion about various selection criteria, lessons learned from sketch models, the feedback from the design review, feedback from the teaching staff, and voting, the team decided to pursue the smart case. <br>
 <img src="images/PD4.png?raw=true"/>
 
 <br><br>
 ---
 
 ### Integration of Electronics and Smart-phone App<br>
+- One of the primary concerns for tracking adherence was whether to include sensors in the case to provide automatic tracking or to force the user to provide some input to confirm that their dosage was taken. Both methods were pursued initially, using a combination of buttons and magnetic reed switches. While both methods are feasible, using only sensor to detect whether the case was open or closed is unreliable because a user may open/close the case for other reasons beside just taking their medication. <br>
+- The microprocessor has a BLE chip which transmits data wirelessly to an app on a smartphone, which is then sent via WiFi to an online web portal. A smaller red LED was used to minimize size of the electronics, while still providing a bright enough light for alarm notification. A 500 mAh lithium ion battery was selected for power because it had a thin profile and could provide enough power for an estimated 10 days of operation before recharging. <br>
 <img src="images/PD5.png?raw=true"/>
 
 <br><br>
 ---
 
 ### Life Cycle Assessments<br>
+- Life cycle assessment (LCA) was used to evaluate the ecological and human health impact of the product over its entire life cycle. Data for materials use (in grams), manufacturing methods, end-of-life scenarios and transportation data were entered as inputs for the three products. <br>
+- We estimated about 90% improvement from the first version of our product based on reducing the amount of energy intensive materials and replacing them with sustainable materials; more emphasis was given toward recycling strategies and ‘closing the loop’ on materials life cycle. <br>
 <img src="images/PD6.jpg?raw=true"/>
 
 <br><br>
