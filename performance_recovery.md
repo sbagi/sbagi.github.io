@@ -1,4 +1,4 @@
-## Strategies for DPF Performance Recovery for enchanced DPF performance and improved vehicle fuel efficiency <br>
+## DPF performance recovery strategies for enchanced filteration/catalytic performance and an improved vehicle fuel efficiency <br>
 Emission control mandates enforced by the EPA in North America on vehicle sold beyond 2007 necessitate diesel engine OEMs to employ advanced aftertreatment technologies to curtail pollutants (such as NOx, Particulate Matter, CO, and unburnt hydrocarbons) within prescribed limits.<br> 
 Aftertreatment systems currently used with heavy-duty diesel engines mainly comprise of DOC (Diesel Oxidation Catalyst), DPF (Diesel Particulate Filter), SCR (Selective Catalytic Reduction) and the ASC (Ammonia Slip Catalyst).
 - Ash accumulation in the DPF over life results in reduced soot storage capacity, lower catalytic activity and may even alter substrate properties and lead to higher back-pressure; hence ash-cleaning of the DPF is required periodically to extend the life of the DPF and restore its catalytic performance.<br>
