@@ -43,7 +43,7 @@
 <img src="images/Diesel5a.JPG?raw=true"/>
 
 ---
-[Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/test_example.md)
+[Phase Transitions of Ash from field-aged DPFs and Performance Recovery Methods](/performance_recovery.md)
 <img src="images/Diesel3.JPG?raw=true"/>
 
 ---
