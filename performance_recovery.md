@@ -36,15 +36,16 @@ Aftertreatment systems currently used with heavy-duty diesel engines mainly comp
 - More than 90% of the ash originates from engine oil metallic species while about 5% originates from wear or corrosion by-products, while the rest of ash could originate from fuel, coolants and other dirt.<br>
 - Detergents and ZDDP components in the engine oil are primary contributors of lubricant-oil generated ash in the filter. Volatility of metallic species in the oil is an important consideration in prediction of DPF ash rather than bulk volatility of engine oil.<br>
 - Due to the differences in NOACK volatility, additive chemistry formulations and the presence of additive sinks in the engine vis-à-vis tribofilms and thermal-films on the interacting surfaces of engine hardware, not all lubricant additives are consumed at the same rate as the bulk oil. <br>
-- Ash derived from engine oil additives is composed of sulfates, sulfides, phosphates, pyrophosphates and oxides of zinc, calcium, magnesium, while other elements such as iron, copper, aluminum and silicon originate from engine hardware & filter substrate. During DPF regeneration, some of the ash species could oxidize further or change their phases and crystalline structure which may be stable at elevated temperatures.<br>
-<img src="images/Diesel18.JPG?raw=true"/> <img src="images/Diesel20.JPG?raw=true"/> 
+<img src="images/Diesel18.JPG?raw=true"/>  
 
 <br><br>
 ---
 
 ### Differences in Sintering Behavior of Ash on DPF Substrate <br>
 - Only major differences were Sample 2 (Engine A) experienced higher frequency of active regeneration and used an oil formulation that contained slightly higher volatility ZDDP component as compared to a novel low-volatility ZDDP formulation used in Sample 5 (Engine B); Engine B relied more on passive regeneration than active during the total service life of filter.<br> 
-<img src="images/Diesel19.JPG?raw=true"/>
+- Ash derived from engine oil additives is composed of sulfates, sulfides, phosphates, pyrophosphates and oxides of zinc, calcium, magnesium, while other elements such as iron, copper, aluminum and silicon originate from engine hardware & filter substrate. During DPF regeneration, some of the ash species could oxidize further or change their phases and crystalline structure which may be stable at elevated temperatures.<br>
+<img src="images/Diesel19.JPG?raw=true"/> <br>
+<img src="images/Diesel20.JPG?raw=true"/>
 
 <br><br>
 ---
