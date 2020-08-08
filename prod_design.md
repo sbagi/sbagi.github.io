@@ -21,13 +21,16 @@ The healthcare industry is a complex network in which numerous stakeholders work
 ---
 
 ### Concept Generation<br>
+- The first step towards finalizing a design concept was to generate as many concepts as possible. Over 50 concepts were generated which were then narrowed down to the top 5 concepts for further investigation, including building basic models and/or rendering. <br>
+- Based on qualitative team discussion about various selection criteria, lessons learned from sketch models, the feedback from the design review, feedback from the teaching staff, and voting, the team decided to pursue the smart case. <br>
 <img src="images/PD3.png?raw=true"/>
 
 <br><br>
 ---
 
 ### Prototype Development<br>
-- The first step towards finalizing a design concept was to generate as many concepts as possible. Over 50 concepts were generated which were then narrowed down to the top 5 concepts for further investigation, including building basic models and/or rendering. <br>
+- Hard case vs. Soft case: The prototypes of each variation were developed and tested with adult patients between the ages of 25 - 65. Most agreed that a softer case will be more convenient to carry both for daily use and potentially for longer term storage while travelling. While the initial prototype was constructed from felt, the final product is planned to be made of synthetic leather because it retains the benefits of the luxurious feel and flexibility of a soft case that many people preferred, yet stiff enough to provide structure to the internal components.<br>
+- Large case vs. Small case: User interviews indicated that there is a clear need for two different sizes: one week or bi monthly case that can be used to store or transport pills, particularly when travelling and a 1 - 3 day case that can be used on a daily basis. The smaller sized case was pursued for further development, yet a larger case can be product variation offered in the future. <br>
 - Based on qualitative team discussion about various selection criteria, lessons learned from sketch models, the feedback from the design review, feedback from the teaching staff, and voting, the team decided to pursue the smart case. <br>
 <img src="images/PD4.png?raw=true"/>
 
