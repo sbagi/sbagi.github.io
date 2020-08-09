@@ -3,11 +3,11 @@
 ---
 ### High-throughput Synthesis and Applications of Porous Materials 
 
-[Development of Flow Chemistry Platform for Materials Synthesis](/parametric_sweep.md)
+[Development of Flow Chemistry Platform for Materials Synthesis](/test_example.md)
 <img src="images/Reactor Schematic.JPG?raw=true"/>
 
 ---
-[Heat Transfer Modeling in Flow Reactors](/parametric_sweep.md)
+[Heat Transfer Modeling in Flow Reactors](/test_example.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
 ---
