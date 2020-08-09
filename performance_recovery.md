@@ -32,6 +32,13 @@ Aftertreatment systems currently used with heavy-duty diesel engines mainly comp
 <br><br>
 ---
 
+### Process breakdown for DPF cleaning <br>
+- DPFs were characterized before and after cleaning to evaluate the effectiveness of specific cleaning methods based on performance parameters. Methods involving a combination of wet, pneumatic and thermal treatments had the best performance recovery showing low HC light-off temperatures, and low back-pressure. 
+<img src="images/Diesel23.JPG?raw=true"/>
+
+<br><br>
+---
+
 ### Typical source for DPF Ash <br>
 - More than 90% of the ash originates from engine oil metallic species while about 5% originates from wear or corrosion by-products, while the rest of ash could originate from fuel, coolants and other dirt.<br>
 - Detergents and ZDDP components in the engine oil are primary contributors of lubricant-oil generated ash in the filter. Volatility of metallic species in the oil is an important consideration in prediction of DPF ash rather than bulk volatility of engine oil.<br>
