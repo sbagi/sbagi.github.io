@@ -47,7 +47,7 @@
 <img src="images/Diesel3.JPG?raw=true"/>
 
 ---
-[Role of Engine Oil Dispersant Formulations on Soot-Induced Wear](/test_example.md)
+[Role of Engine Oil Dispersant Formulations on Soot-Induced Wear](/soot_induced_wear.md)
 <img src="images/Diesel4.JPG?raw=true"/>
 
 ---
