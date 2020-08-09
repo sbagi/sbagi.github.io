@@ -2,7 +2,7 @@
 <br>
 - The product design exercise aimed at developing a discreet and stylized case for convinient storage, transportation and tracking the use of medication for adult patients.<br>
 - Non-adherence to medication leads to >130,000 preventable deaths in the US every yeay and a detailed market analysis highlighted the need for a product in this category.<br>
-- We were a team of 6 graduate students, 3 engineering majors, 2 business majors and 1 design major. Below are some of the highlights from the group project executed in 2017. I took the lead on performing concept generation, LCA (Life Cycle Assessments), and user-centeric product testing.
+- We were a team of 6 graduate students, 3 engineering majors, 2 business majors and 1 design major. Below are some of the highlights from the group project executed in 2017. I took the lead on concept generation, LCA (Life Cycle Assessments), and user-centeric product testing.
 <br>
 
 ---
