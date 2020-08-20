@@ -1,4 +1,4 @@
-## Research Summary <br>
+## TEA Research Summary <br>
 Techno-economic Analysis (TEA) is used to access the batch and flow processes which are used to synthesize porous materials (MOFs and Zeolites). TEA compares the processes in terms of synthesis costs, benefits, risks, and uncertainties.<br>
 I present a TEA framework which we developed to quantify the production costs (materials, energy and equipment cost) involved to synthesize MOF-808 in batch and flow reactors.<br>
 MOF-808 exhibits outstanding hydrothermal and chemical stability in a wide operating conditions and is a promising material for use in catalysis, adsorption, separation, drug deliver and others.<br>
