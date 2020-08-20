@@ -1,20 +1,8 @@
 ## Research Portfolio
 
 ---
-### High-throughput Synthesis and Applications of Porous Materials 
+### Research at MIT 
 
-[Development of Flow Chemistry Platform for Materials Synthesis](/test_example.md)
-<img src="images/Reactor Schematic.JPG?raw=true"/>
-
----
-[Heat Transfer Modeling in Flow Reactors](/test_example.md)
-<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
-
----
-[Techno-economic Analysis Comparing Batch & Flow Synthesis](/pdf/sample_presentation.pdf)
-<img src="images/TEA2.JPG?raw=true"/>
-
----
 [Harvesting Fresh Drinking Water from Air](http://example.com/)
 <img src="images/AWC1.JPG?raw=true"/>
 
@@ -23,6 +11,15 @@
 <img src="images/NiBTDD1a.JPG?raw=true"/>
 
 ---
+[Techno-economic Analysis Comparing Batch & Flow Synthesis](/pdf/sample_presentation.pdf)
+<img src="images/TEA2.JPG?raw=true"/>
+
+---
+[Heat Transfer Modeling in Flow Reactors](/test_example.md)
+<img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
+
+---
+
 ### Academic Projects at MIT
 
 [Scenarios for Carbon Neutral MIT](/carbon_neutral.md)
