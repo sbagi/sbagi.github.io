@@ -61,8 +61,10 @@
 - [Role of MoS2 Morphology on Wear & Friction Behavior of Greases](https://doi.org/10.1002/ls.1296)
 - [Grease Formulations with Organic & Inorganic Sulfur Additives](https://doi.org/10.2474/trol.12.162)
 
+Evaluation of wear track obtained from a MOS2-based extreme-pressure grease using a 4-ball wear test
 <img src="images/Wear1.JPG?raw=true"/> <br><br>
 
+Variations in Torque (Nm) and Coefficient of Friction using different grease formulations under Cyclic Loading Conditions
 <img src="images/Wear2.JPG?raw=true"/>
 
 ---
