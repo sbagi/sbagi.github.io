@@ -40,3 +40,9 @@ One area of practical significance is to understand the relationship between soo
 
 <br><br>
 ---
+
+### Heavy-duty Diesel Powertrain in an On-road Class 8 Truck <br>
+<img src="images/Diesel24.jpg?raw=true"/>
+
+<br><br>
+---
