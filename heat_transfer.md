@@ -18,25 +18,25 @@ I present a test-case where we scale-up a flow reactor to manufacture 'NiBTDD' M
 ---
 
 ### 2D plots visualizing growth of thermal boundary layers <br>
-<img src="images/HT1.JPG?raw=true"/>
+<img src="images/HT1.jpg?raw=true"/>
 
 <br><br>
 ---
 
 ### Physics controlled meshing sequence for different tube IDs <br>
-<img src="images/HT2.JPG?raw=true"/>
+<img src="images/HT2.jpg?raw=true"/>
 
 <br><br>
 ---
 
 ### Axial temperature profile for reactors with different tube IDs and 3D slice plots showing thermal Boundary Layers <br>
-<img src="images/HT3.JPG?raw=true"/>
+<img src="images/HT3.jpg?raw=true"/>
 
 <br><br>
 ---
 
 ### Production output as a function of reactor tube ID and Parallelization Scheme <br>
-<img src="images/HT4.JPG?raw=true"/>
+<img src="images/HT4.jpg?raw=true"/>
 
 <br><br>
 ---
