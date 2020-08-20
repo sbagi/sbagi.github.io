@@ -22,7 +22,7 @@ Based on the RH (Relative Humidity) conditions, AWC methods can vary. For RH>90%
 ---
 
 ### Modular 3-stage continuous flow chemistry platform <br>
-- The reactor module comprised of PTFE tubing held together using an aluminum (Al) core and Al jacket, inserted into an electrically heated furnace allowing for nearly isothermal operation with ultrafast heat transfer, resulting in short residence times needed to achieve the desired product yield. 
+- The reactor module comprised of PTFE tubing held together using an aluminum (Al) core and Al jacket, inserted into an electrically heated furnace allowing for nearly isothermal operation with ultrafast heat transfer, resulting in short residence times needed to achieve the desired product yield.<br> 
 <img src="images/Reactor Schematic.JPG?raw=true"/>
 
 <br><br>
@@ -51,6 +51,7 @@ Based on the RH (Relative Humidity) conditions, AWC methods can vary. For RH>90%
 
 <br><br>
 ---
+
 ### MOF Opportunity landscape with reduced synthetic costs <br>
 <img src="images/AWC2.jpg?raw=true"/>
 
