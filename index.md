@@ -15,7 +15,7 @@
 <img src="images/TEA2.JPG?raw=true"/>
 
 ---
-[Heat Transfer Modeling in Flow Reactors](/test_example.md)
+[Heat Transfer Modeling in Flow Reactors](/heat_transfer.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
 ---
