@@ -46,7 +46,7 @@ Based on the RH (Relative Humidity) conditions, AWC methods can vary. For RH>90%
 ---
 
 ### Gravimetric water-uptake isotherms with deliverable capacity and cycling stability <br>
-- All materials show type IV isotherms featuring a step in the uptake at approximately 0.28 P/Po (equivalent to RH = 28%), which is attributed to the onset of pore filling.
+- All materials show type IV isotherms featuring a step in the uptake at approximately 0.28 P/Po (equivalent to RH = 28%), which is attributed to the onset of pore filling.<br>
 <img src="images/AWC5.JPG?raw=true"/>
 
 <br><br>
