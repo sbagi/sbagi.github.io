@@ -3,7 +3,7 @@
 ---
 ### Research at MIT 
 
-[Harvesting Fresh Drinking Water from Air](http://example.com/)
+[Harvesting Fresh Drinking Water from Air](/AWC.md)
 <img src="images/AWC1.JPG?raw=true"/>
 
 ---
@@ -53,7 +53,7 @@
 
 ---
 
-### Previous Projects (Tribology, Lubricants Formulation, and Wear Testing)
+### Previous Research in Tribology, Lubricants Formulation, and Wear Testing
 
 - [Metallo-organic Friction Modifiers in Lubricating Greases](https://doi.org/10.1080/17515831.2018.1542790)
 - [Wear and Friction Behaviour of Greases under Spectrum Loading](https://rc.library.uta.edu/uta-ir/handle/10106/25525)
@@ -63,13 +63,4 @@
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](/pdf/sample_presentation.pdf)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
