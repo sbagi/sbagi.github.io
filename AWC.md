@@ -21,12 +21,18 @@ Based on the RH (Relative Humidity) conditions, AWC methods can vary. For RH>90%
 ---
 
 ### Modular 3-stage continuous flow chemistry platform <br>
+- The reactor module comprised of PTFE tubing held together using an aluminum (Al) core and Al jacket, inserted into an electrically heated furnace allowing for nearly isothermal operation with ultrafast heat transfer, resulting in short residence times needed to achieve the desired product yield. 
 <img src="images/Reactor Schematic.JPG?raw=true"/>
 
 <br><br>
 ---
 
 ### Phenomenological model of crystallization in biphasic liquid-liquid slug flow <br>
+- The MOF precursor mixture comprising of NiCl2.6H2O and H2BTDD dissolved in N,N-DMF, CH3OH and HCl, is injected into a continuous stream of silicone oil using a T-junction generating a segmented biphasic slug flow. 
+- Silicone oil was used as it preferentially wets the hydrophobic surface of the PTFE tubing, thereby producing a continuous phase wherein the MOF precursor can travel as discrete and uniformly spaced droplets within the tube.
+- The slug generation process is associated with the dynamic pressure profile existing at the T-junction when two immiscible fluids are simultaneously introduced in the stream. When the stream of first phase is flowing through the junction, the flow of the second phase is obstructed due to immiscibility of the two phases, resulting in pressure build up.<br>
+- When the pressure reaches a critical point, the first phase is driven back from the T-junction shearing off the droplet into the stream, thereby generating a slug. This alternated cyclic build-up and release of pressure is responsible for the segmentation of the liquids allowing reproducible slug lengths. <br>
+
 <img src="images/AWC3.JPG?raw=true"/>
 
 <br><br>
