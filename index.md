@@ -11,7 +11,7 @@
 <img src="images/NiBTDD1a.JPG?raw=true"/>
 
 ---
-[Techno-economic Analysis Comparing Batch & Flow Synthesis](/pdf/sample_presentation.pdf)
+[Techno-economic Analysis Comparing Batch & Flow Synthesis](/TEA.md)
 <img src="images/TEA2.JPG?raw=true"/>
 
 ---
