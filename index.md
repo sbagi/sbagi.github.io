@@ -61,6 +61,10 @@
 - [Role of MoS2 Morphology on Wear & Friction Behavior of Greases](https://doi.org/10.1002/ls.1296)
 - [Grease Formulations with Organic & Inorganic Sulfur Additives](https://doi.org/10.2474/trol.12.162)
 
+<img src="images/Wear1.JPG?raw=true"/> <br><br>
+
+<img src="images/Wear2.JPG?raw=true"/>
+
 ---
 
 
