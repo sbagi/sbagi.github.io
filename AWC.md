@@ -32,18 +32,24 @@ Based on the RH (Relative Humidity) conditions, AWC methods can vary. For RH>90%
 - Silicone oil was used as it preferentially wets the hydrophobic surface of the PTFE tubing, thereby producing a continuous phase wherein the MOF precursor can travel as discrete and uniformly spaced droplets within the tube.
 - The slug generation process is associated with the dynamic pressure profile existing at the T-junction when two immiscible fluids are simultaneously introduced in the stream. When the stream of first phase is flowing through the junction, the flow of the second phase is obstructed due to immiscibility of the two phases, resulting in pressure build up.<br>
 - When the pressure reaches a critical point, the first phase is driven back from the T-junction shearing off the droplet into the stream, thereby generating a slug. This alternated cyclic build-up and release of pressure is responsible for the segmentation of the liquids allowing reproducible slug lengths. <br>
-
 <img src="images/AWC3.JPG?raw=true"/>
 
 <br><br>
 ---
 
-### Ni2Cl2BTDD MOF featuring 1D pore channels and zig-zag SBUs <br>
+### Ni2Cl2(BTDD) MOF featuring 1D pore channels and zig-zag SBUs <br>
+- The pores are defined by one-dimensional chains of five coordinate metal atoms with hydrophilic open coordination sites supported by strong metal−azolate linkages.
 <img src="images/AWC4.JPG?raw=true"/>
 
 <br><br>
 ---
 
+### Gravimetric water-uptake isotherms with deliverable capacity and cycling stability <br>
+- All materials show type IV isotherms featuring a step in the uptake at approximately 0.28 P/Po (equivalent to RH = 28%), which is attributed to the onset of pore filling.
+<img src="images/AWC5.JPG?raw=true"/>
+
+<br><br>
+---
 ### MOF Opportunity landscape with reduced synthetic costs <br>
 <img src="images/AWC2.jpg?raw=true"/>
 
