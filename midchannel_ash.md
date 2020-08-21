@@ -11,7 +11,7 @@ Aftertreatment systems currently used with heavy-duty diesel engines mainly comp
 - X-Ray computed tomography (CT) is a non-destructive imaging technique where a sample is rotationally scanned in order to generate a 3D dataset. X-ray photons are fired at a sample, some of which absorb into the sample, where the absorption is a function of sample density, thickness and chemical composition. 2D radiographs are recorded at fractions of a degree over 360° (2000-3000 images are recorded for most scans in this study) and then reconstructed with the Nikon CT 3D Pro software, where alignment, beam hardening and noise reduction algorithms can be applied. <br>
 - Bright regions in the CT scans indicate the presence of high-density ash plugs that can exist closer to the inlet face of the DPF, ash end-plugs closer to the outlet, or form patterns in the middle (axial center) of the DPF.<br>
 
-Collaboration with Dr. Carl Justin Kamp from MIT and Kymanetics, Inc has resulted in the following publications and ongoing projects. 
+Collaboration with [Dr. Carl Justin Kamp](https://www.linkedin.com/in/carl-justin-kamp-10a3a030/) from MIT and [Kymanetics, Inc](https://kymanetics.com/) has resulted in the following publications and ongoing projects. 
 
 ---
 
