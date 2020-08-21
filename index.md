@@ -1,7 +1,7 @@
 ## Research Portfolio
 
 ---
-### Research at MIT 
+## Research at MIT 
 
 [Harvesting Fresh Drinking Water from Air](/AWC.md)
 <img src="images/AWC1.JPG?raw=true"/>
@@ -20,7 +20,7 @@
 
 ---
 
-### Academic Projects at MIT
+## Academic Projects at MIT
 
 [Scenarios for Carbon Neutral MIT](/carbon_neutral.md)
 <img src="images/ScenarioA.JPG?raw=true"/>
