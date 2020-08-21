@@ -7,7 +7,7 @@
 <img src="images/AWC1.JPG?raw=true"/>
 
 ---
-[Fast Optimization of Materials Synthesis Space](/test_example.md)
+[Fast Optimization of Materials Synthesis Space](/synthesis_space.md)
 <img src="images/NiBTDD1a.JPG?raw=true"/>
 
 ---
