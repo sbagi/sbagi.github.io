@@ -4,12 +4,12 @@
 ## Research at MIT 
 
 [Harvesting Fresh Drinking Water from Air](/AWC.md)
-<br>
+<br><br>
 <img src="images/AWC1.JPG?raw=true"/>
 
 ---
 [Fast Optimization of Materials Synthesis Space](/synthesis_space.md)
-<br>
+<br><br>
 <img src="images/NiBTDD1a.JPG?raw=true"/>
 
 ---
@@ -32,14 +32,14 @@
 
 ---
 [Product Design for Improved Adherence to Medication](/prod_design.md)
-<br>
+<br><br>
 <img src="images/PD1.JPG?raw=true"/>
 
 ---
 ## Diesel Engine Lubricants, Emissions, and After-treatment System Development
 
 [Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/diesel_soot.md)
-<br>
+<br><br>
 <img src="images/Diesel1.JPG?raw=true"/>
 
 ---
@@ -59,7 +59,7 @@
 
 ---
 [Mid-channel Ash Deposits in DPF (Diesel Particulate Filters)](/midchannel_ash.md)
-<br>
+<br><br>
 <img src="images/Diesel2.JPG?raw=true"/>
 
 ---
@@ -72,10 +72,10 @@
 - [Role of MoS2 Morphology on Wear & Friction Behavior of Greases](https://doi.org/10.1002/ls.1296)
 - [Grease Formulations with Organic & Inorganic Sulfur Additives](https://doi.org/10.2474/trol.12.162)
 
-Evaluation of wear track obtained from a MOS2-based extreme-pressure grease using a 4-ball wear test<br><br>
+Evaluation of wear track obtained from a MOS2-based extreme-pressure grease using a 4-ball wear test<br>
 <img src="images/Wear1.JPG?raw=true"/> <br><br>
 
-Variations in Torque (Nm) and Coefficient of Friction using different grease formulations under Cyclic Loading Conditions<br><br>
+Variations in Torque (Nm) and Coefficient of Friction using different grease formulations under Cyclic Loading Conditions<br>
 <img src="images/Wear2.JPG?raw=true"/>
 
 ---
