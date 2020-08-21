@@ -53,6 +53,10 @@ Based on the RH (Relative Humidity) conditions, AWC methods can vary. For RH>90%
 ---
 
 ### MOF Opportunity landscape with reduced synthetic costs <br>
+- Current global market size of MOFs is ~$70 million as of 2019 and is expected to grow at 34% CAGR till 2024 (~$410 million). 
+- Only a handful of MOFs are commercially available with a quoted market price of >$30/g, while any successful application would require MOF prices to be lower than $0.2/g. <br>
+- Based on our techno-economic model, ~80-85% of the synthesis cost originate from the raw materials such as solvents, and organic linkers, while ~15% of the cost originates form energy & equipment cost. <br>
+- We firmly believe that the use of flow-reactors for scaled-up production of promising MOF candidates would lead to reduced synthesis costs aiding their quicker adoption in industrial applications.<br>
 <img src="images/AWC2.jpg?raw=true"/>
 
 <br><br>
