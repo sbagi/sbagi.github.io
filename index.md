@@ -30,7 +30,7 @@
 <img src="images/PD1.JPG?raw=true"/>
 
 ---
-### Diesel Engine Lubricants, Emissions, and After-treatment System Development
+## Diesel Engine Lubricants, Emissions, and After-treatment System Development
 
 [Multiscale Characterization of Soot Ecosystem in Heavy-Duty Diesel Engines](/diesel_soot.md)
 <img src="images/Diesel1.JPG?raw=true"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### Previous Research in Tribology, Lubricants Formulation, and Wear Testing
+## Previous Research in Tribology, Lubricants Formulation, and Wear Testing
 
 - [Metallo-organic Friction Modifiers in Lubricating Greases](https://doi.org/10.1080/17515831.2018.1542790)
 - [Wear and Friction Behaviour of Greases under Spectrum Loading](https://rc.library.uta.edu/uta-ir/handle/10106/25525)
