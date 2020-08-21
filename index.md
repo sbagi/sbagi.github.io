@@ -44,7 +44,7 @@
 
 ---
 [3D X-ray Computed Tomography and Numerical Simulation to Investigate Influence of Ash on DPF Permeability](/midchannel_ash.md)
-<br>
+<br><br>
 <img src="images/Diesel5a.JPG?raw=true"/>
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 [Role of Engine Oil Dispersant Formulations on Soot-Induced Wear](/soot_induced_wear.md)
-<br>
+<br><br>
 <img src="images/Diesel4.JPG?raw=true"/>
 
 ---
