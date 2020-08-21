@@ -4,21 +4,20 @@
 ## Research at MIT 
 
 ### [Harvesting Fresh Drinking Water from Air](/AWC.md)
-<br><br>
 <img src="images/AWC1.JPG?raw=true"/>
 
 ---
 ### [Fast Optimization of Materials Synthesis Space](/synthesis_space.md)
-<br><br>
+<br>
 <img src="images/NiBTDD1a.JPG?raw=true"/>
 
 ---
-[Techno-economic Analysis Comparing Batch & Flow Synthesis](/TEA.md)
+### [Techno-economic Analysis Comparing Batch & Flow Synthesis](/TEA.md)
 <br>
 <img src="images/TEA2.JPG?raw=true"/>
 
 ---
-[Heat Transfer Modelling in Flow Reactors](/heat_transfer.md)
+### [Heat Transfer Modelling in Flow Reactors](/heat_transfer.md)
 <br>
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
