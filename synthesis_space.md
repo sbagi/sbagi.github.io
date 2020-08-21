@@ -16,6 +16,7 @@
 - Labels for every data point represent the relative crystallinity in percentage (% RC), that quantifies the amount of crystalline phase in the synthesized product.<br> 
 - Parameters such as the residence time and reaction temperature were varied in a range of 15 min to 240 min, and 120-150 °C respectively, based on synthesis parameters reported in previous literature.<br>
 - The synthetic condition in flow with the highest yield of crystalline Ni2Cl2(BTDD) is labelled 100% RC, while RC values calculated for rest of the synthetic conditions were divided into three categories: >80% RC were classified as crystalline, 30% < RC < 80% classified as semi-crystalline, and RC < 30% were classified amorphous.<br><br>
+
 <img src="images/SYN1.JPG?raw=true"/>
 
 <br><br>
