@@ -1,5 +1,5 @@
 ## Research Summary <br>
-Modelling heat and mass transfer characteristics in batch and flow reactors under non-isothermal conditions is critical while evaluating scaling-up the reactor sizes to achieve higher production rates.<br>
+Modelling heat and mass transfer characteristics in batch and flow reactors under non-isothermal conditions is critical while scaling-up the reactor sizes to achieve higher production rates.<br>
 I present a test-case where we scale-up a flow reactor to manufacture 'NiBTDD' MOF from lab-scale (grams) to industrial scale (kilograms). <br>
 - Tradeoffs associated with enlarging reactor tubes for higher production rate while losing benefits of small system dimension in the flow reactor must be judiciously considered before scaling-up the system.<br>
 - The reactor tubing was modeled as a 2D axisymmetric geometry with varying diameters from 1/16 in (0.159 cm) to 2 in (5.08 cm), and a constant length of 8 m in the crystallizer (heated reaction zone of the tubing). To achieve a residence time of 60 min, a linear velocity of 13.4 cm/min and total flow rate of 0.267 mL/min was used.<br>
