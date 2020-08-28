@@ -1,7 +1,8 @@
-## Optimization of Synthesis Space <br>
+## Fast Optimization of Synthesis Space <br>
 - Synthesis space or reaction space refers to a critical range of process parameters such as molar ratios of reagents in the precursor mixture, residence time, and reaction temperature that dictates the outcomes such as product crystallinity, production rates, crystal size distribution etc.<br>
 - In most cases involving synthesis of Zeolites or MOFs, there are a large number of parameters to screen; parameters with small response factors are usually held constant while rest of the parameters can have a specified range where experiments are run. <br> 
-- Below is a test case for Ni2Cl2(BTDD) MOF, wherein we use DoE (Design of Experiments) to build an experimental matrix of 45 tests to screen 4 critical process parameters are screened using a continuous flow chemistry platform.<br>  
+- Below is a test case for Ni2Cl2(BTDD) MOF, wherein we use DoE (Design of Experiments) to build an experimental matrix of 45 tests to screen 4 critical process parameters are screened using a continuous flow chemistry platform.<br> 
+- Highly crystalline regions on the synthesis maps that result in lower use of expensive solvents and short residence times, translate to energy-efficient and low-cost manufacturing routes thereby optimizing the existing process to a 'greener' alternative.  
 
 ---
 
