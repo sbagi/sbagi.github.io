@@ -16,7 +16,7 @@
 
 ---
 ### [Modelling Crystallization Kinetics for MOFs & Zeolites](/cryst_kinetics.md)
-<img src="images/Cryst 1.gif?raw=true"/>
+<img src="images/Cryst 2.gif?raw=true"/>
 
 ---
 ### [Heat Transfer Modelling in Flow Reactors](/heat_transfer.md)
