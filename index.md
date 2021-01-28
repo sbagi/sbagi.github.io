@@ -15,6 +15,10 @@
 <img src="images/TEA2.JPG?raw=true"/>
 
 ---
+### [Modelling Crystallization Kinetics for MOFs & Zeolites](/cryst_kinetics.md)
+<img src="images/Cryst 1.gif?raw=true"/>
+
+---
 ### [Heat Transfer Modelling in Flow Reactors](/heat_transfer.md)
 <img src="images/Parametric Sweep (2D - Temp) 5,15,60 min.gif?raw=true"/>
 
