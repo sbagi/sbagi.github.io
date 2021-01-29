@@ -11,7 +11,7 @@ MOFs are crystalline coordination complexes consisting of organic linkers and in
 ### Major Outcomes from the Research <br>
 - Employed rapid sampling module developed in-house to quench crystallization reactions performed in flow reactor for MOF-808 (Zr) - an industrially attractive MOF with open metal sites, used in catalysis, heat pumps, separation etc.<br>
 - Determined activation energies and rate constants for nucleation and crystal growth using Gualtieri model for solution-mediated transformation. <br>
-- Explored the effects of coordination modulation, temperature, & linker concentration on particle sizes. <br>
+- Explored the effects of coordination modulation, reaction temperature, & linker concentration on particle sizes. <br>
 
 ---
 
@@ -23,7 +23,7 @@ MOFs are crystalline coordination complexes consisting of organic linkers and in
 ---
 
 ### Conversion of XRD Patterns into Crystallization Curves  <br>
-- Powder XRD pattern for MOF-808 showing miller indices for prominent peaks below 12o 2 theta. Area under the curve for peaks corresponding to the plane (400) or (331) is monitored as a function of time to generate crystallization curves for specific reaction conditions. Monitoring the growth of (400) or (331) peaks is well-suited to obtain crystallization curves as they do not overlap with neighboring  peaks, and lack features such as pre- or post-edge peaks that may skew the baseline correction and the corresponding area under the curve.<br><br>
+- Powder XRD pattern for MOF-808 showing miller indices for prominent peaks below 12 degree 2 theta. Area under the curve for peaks corresponding to the plane (400) or (331) is monitored as a function of time to generate crystallization curves for specific reaction conditions. Monitoring the growth of (400) or (331) peaks is well-suited to obtain crystallization curves as they do not overlap with neighboring  peaks, and lack features such as pre- or post-edge peaks that may skew the baseline correction and the corresponding area under the curve.<br><br>
 <img src="images/Cryst 3.JPG?raw=true"/>
 
 <br><br>
@@ -31,7 +31,7 @@ MOFs are crystalline coordination complexes consisting of organic linkers and in
 
 ### Nonlinear Curve Fitting of Kinetic Data <br>
 - Gualtieri model (solution mediated transformation) along with Avrami-Erofeev model (solid-state transformation) were employed to fit the crystallization curves obtained from XRD patterns. 
-- Fitted models provide values for rate constants of growth and nucleation, which can then be used to calculate activation energies (kJ/mol) using arrhenius plots. Higher values of activation energy translates to a rate-limiting step.<br>
+- Fitted models provide values for rate constants of growth and nucleation, which can then be used to calculate activation energies (kJ/mol) using arrhenius plots. Higher values of activation energy translate to a rate-limiting step.<br>
 - Extent of crystallization α plotted against time t (closed symbol) and the corresponding Gualtieri fitting (red curve).<br><br>
 <img src="images/Cryst 1.gif?raw=true"/>
 
