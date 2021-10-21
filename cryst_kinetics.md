@@ -16,6 +16,7 @@ MOFs are crystalline coordination complexes consisting of organic linkers and in
 ---
 
 ### Relevant Publications for Further Reading<br>
+- [Solvothermal Crystallization Kinetics and Control of Crystal Size Distribution of MOF-808 in a Continuous Flow Reactor](https://pubs.acs.org/doi/10.1021/acs.cgd.1c00968)
 - [Insight into the mechanism of modulated syntheses: in situ synchrotron diffraction studies](https://doi.org/10.1039/C4CE01095G)
 - [Continuous-Flow Tubular Crystallization in Slugs Spontaneously Induced by Hydrodynamics](https://pubs.acs.org/doi/10.1021/cg401715e)
 - [Kinetic Control of Metal–Organic Framework Crystallization Investigated by Time‐Resolved In Situ X‐Ray Scattering](https://doi.org/10.1002/anie.201101757)
